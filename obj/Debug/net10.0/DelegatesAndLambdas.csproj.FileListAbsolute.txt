@@ -1,0 +1,15 @@
+C:\Users\misarry\Desktop\DelegatesAndLambdas\bin\Debug\net10.0\DelegatesAndLambdas.exe
+C:\Users\misarry\Desktop\DelegatesAndLambdas\bin\Debug\net10.0\DelegatesAndLambdas.deps.json
+C:\Users\misarry\Desktop\DelegatesAndLambdas\bin\Debug\net10.0\DelegatesAndLambdas.runtimeconfig.json
+C:\Users\misarry\Desktop\DelegatesAndLambdas\bin\Debug\net10.0\DelegatesAndLambdas.dll
+C:\Users\misarry\Desktop\DelegatesAndLambdas\bin\Debug\net10.0\DelegatesAndLambdas.pdb
+C:\Users\misarry\Desktop\DelegatesAndLambdas\obj\Debug\net10.0\DelegatesAndLambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misarry\Desktop\DelegatesAndLambdas\obj\Debug\net10.0\DelegatesAndLambdas.AssemblyInfoInputs.cache
+C:\Users\misarry\Desktop\DelegatesAndLambdas\obj\Debug\net10.0\DelegatesAndLambdas.AssemblyInfo.cs
+C:\Users\misarry\Desktop\DelegatesAndLambdas\obj\Debug\net10.0\DelegatesAndLambdas.csproj.CoreCompileInputs.cache
+C:\Users\misarry\Desktop\DelegatesAndLambdas\obj\Debug\net10.0\DelegatesAndLambdas.dll
+C:\Users\misarry\Desktop\DelegatesAndLambdas\obj\Debug\net10.0\refint\DelegatesAndLambdas.dll
+C:\Users\misarry\Desktop\DelegatesAndLambdas\obj\Debug\net10.0\DelegatesAndLambdas.pdb
+C:\Users\misarry\Desktop\DelegatesAndLambdas\obj\Debug\net10.0\DelegatesAndLambdas.genruntimeconfig.cache
+C:\Users\misarry\Desktop\DelegatesAndLambdas\obj\Debug\net10.0\ref\DelegatesAndLambdas.dll
+C:\Users\misarry\Desktop\DelegatesAndLambdas\obj\Debug\net10.0\Delegate.42445F24.Up2Date
