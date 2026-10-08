@@ -2,9 +2,6 @@
 
 Простой консольный проект C# для Visual Studio 2026 и .NET 10.
 
-## Запуск
-Распакуйте архив, откройте DelegatesAndLambdas.sln и нажмите Ctrl+F5.
-Из терминала: dotnet run --project DelegatesAndLambdas.csproj
 
 ## Работа программы
 1 — обработка чисел. Введите количество, затем числа по одному.
