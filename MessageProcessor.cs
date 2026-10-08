@@ -10,14 +10,16 @@ public sealed class MessageProcessor
         Func<string, bool> filter = message => message.Length > 3;
         Func<string, string> transform = message => "[LOG] " + message.ToUpperInvariant();
         Action<string> print = result => output.WriteLine(result);
-        Action<string> remember = result => history.Add(result);
-        Action<string> combined = print;
-        combined += remember;
+        Action<string> myLog = result =>
+        {
+            output.WriteLine(result);
+            history.Add(result);
+        };
         int processed = 0;
         foreach (string message in messages)
         {
             if (!filter(message)) continue;
-            combined(transform(message));
+            myLog(transform(message));
             processed++;
         }
         output.WriteLine($"Обработано: {processed}; в истории: {history.Count}.");
